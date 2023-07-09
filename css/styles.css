@@ -1,0 +1,11 @@
+body {
+  background-image: url(../gifs/piggy.gif);
+  background-repeat: repeat;
+}
+
+h1 {
+  background-color: white;
+  outline: auto;
+  align-content: center;
+  text-align: center;
+}
